@@ -1,0 +1,88 @@
+[
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el papá de Bart?",
+        "respuesta": "Homero",
+        "incorrecta1": "Samuel",
+        "incorrecta2": "Miguel",
+        "incorrecta3": "Pitagoras",
+        "imagen": "https://i.ibb.co/DM5Ns0D/Los-simpsos.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Homero",
+        "incorrecta1": "Samuel",
+        "incorrecta2": "Miguel",
+        "incorrecta3": "Pitagoras",
+        "imagen": "https://i.ibb.co/f43HdQQ/homer.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Serie americana donde los personajes son amarillos",
+        "respuesta": "Los simpsos",
+        "incorrecta1": "Padre de familia",
+        "incorrecta2": "South park",
+        "incorrecta3": "La casa de los dibujos"
+    },
+    
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién es el máximo goleador de la liga española?",
+        "respuesta": "Messi",
+        "incorrecta1": "Raul",
+        "incorrecta2": "Zarra",
+        "incorrecta3": "Ronaldo",
+        "imagen": "https://estaticos-cdn.sport.es/clip/e129e000-72cb-4a6a-911c-aec6f5875cb0_media-libre-aspect-ratio_default_0.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Usain Bolt",
+        "incorrecta1": "James Blake",
+        "incorrecta2": "Michael Jordan",
+        "incorrecta3": "Justin Gatlin",
+        "imagen": "https://e00-elmundo.uecdn.es/elmundo/imagenes/2013/07/29/ciencia/1375091560_0.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué deporte es?",
+        "respuesta": "Badmintong",
+        "incorrecta1": "Tenis",
+        "incorrecta2": "Raquetbal",
+        "incorrecta3": "Padel",
+        "imagen": "https://phantom-marca.unidadeditorial.es/50529e20e51ea0fee7fc3576366ff541/resize/1320/f/jpg/assets/multimedia/imagenes/2020/10/12/16025264370333.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Tecnología",
+        "pregunta": "¿Cómo llamaron a la empresa Jobs y Woznaik?",
+        "respuesta": "Apple 2",
+        "incorrecta1": "Apple",
+        "incorrecta2": "Microsoft",
+        "incorrecta3": "Mac"
+        
+    },
+    {
+        "categoria": "Tecnología",
+        "pregunta": "¿Cuál de estas compañias fue uno de los primeros clientes de Microsoft?",
+        "respuesta": "IBM y Apple Computer",
+        "incorrecta1": "CISCO sistem",
+        "incorrecta2": "Tech Data y SAP",
+        "incorrecta3": "Oracle",
+        "imagen": "https://d500.epimg.net/cincodias/imagenes/2020/07/22/companias/1595442845_918343_1595443241_noticia_normal.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Tecnología",
+        "pregunta": "¿Cuantos cálculos por segundo estima que realiza una computadora promedia?",
+        "respuesta": "1.000.000",
+        "incorrecta1": "100.000",
+        "incorrecta2": "500.000"
+        
+    }
+]
